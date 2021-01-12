@@ -1,2 +1,2 @@
 # Super-Mario-Bros
-C++ game using SDL
+C++ game using SDL.
